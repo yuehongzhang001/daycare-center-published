@@ -1,8 +1,8 @@
 import emailjs from "/node_modules/emailjs-com/cjs/index.js"
 
 const YOUR_SERVICE_ID = "service_chv2uri"
-const YOUR_TEMPLATE_ID_Form = "template_mpm906g"
-const userID = "user_7FCMRaTuH5ezXIUTGUUCV"
+const YOUR_TEMPLATE_ID_Form = "*****"
+const userID = "****"
 
 const YOUR_TEMPLATE_ID_MESSAGE = "template_762qsfo"
 export default {
